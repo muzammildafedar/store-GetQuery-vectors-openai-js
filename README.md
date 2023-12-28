@@ -22,7 +22,8 @@ Before you begin, make sure you have the following set up:
 2. **Install dependencies:**
 
     ```bash
-    npm install
+    npm install openai
+    npm install @supabase/supabase-js
     ```
 
 ## Configuration
