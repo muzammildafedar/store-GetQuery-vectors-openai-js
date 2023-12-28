@@ -152,10 +152,7 @@ Oct 2018 - Aug 2019
 Started as a PHP, and ReactJs developer and worked on a handful of projects. I worked on domains like custom
 ERPs/CRMs, Multi-vendor eCommerce websites, SaaS products, etc.
 Notable Projects
-Wisetail (Tech stack : ReactJS, MaterialUI, NodeJS) visit
-Currently working on building this fantastic product. An easy-to-use checklist solution that helps teams manage the
-variables that put the business at risk through tasks, understanding, and corrective actions. With valuable reporting
-capabilities, managers can track and view activity compliance and gain insights into training gaps.
+
 Swift (Tech stack : Flutter, Dart, Firebase) visit
 Swift is the blockchain platform, It will support all kind of blockchain trading
 Chrgr.io (Tech stack : ReactJS, PHP, NodeJS) visit
