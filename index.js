@@ -107,76 +107,7 @@ async function main() {
     const query = `write a hello word program in java`;
     const matchThreshold = 0.70;
     const matchCount = 1;
-    const body = `
-  Hubli, India ·
-Muzammil Dafedar
-Muzammil is guy and determined to male 
-Gmail · Ó +919663518926 · ¯ Muzammil Dafedar ·  Github·
-Portfolio
-Summary
-Full-stack web and mobile developer with 2+ years of experience. Proven ability to develop and maintain high-quality
-applications using a variety of technologies, including ReactJS, Flutter, Node.js, and AWS. Seeking a challenging role
-where I can use my skills to make a significant contribution to a team.
-Skills
-Programming: JavaScript, TypeScript, Dart ,NodeJS
-Cloud: Aws -EC2, Aws-Lambda, Aws-CloudWatch
-Database: MySQL, PostgreSQL, NoSQL(Firestore)
-Libraries/Frameworks: Flutter, Codeigniter 3, ReactJS, MaterialUI , Serverless (NodeJS)
-Tools/Platforms: Git, Github, Firebase, Android Studio, Visual Studio Code, PyCharm, Postman
-Professional Experience
-Encora Inc. www.encora.com
-Hubli, Karnataka, India
-Junior Software Engineer
-March 2023 - Present
-Developed and maintained React.js, serverless Node.js, and Flutter applications, utilizing clean, clear, efficient, and
-well-tested code to ensure easy maintainability. Contributed to the enhancement of the company’s internal product
-portfolio.
-Trainee Software Engineer
-Aug 2022 - Feb 2023
-Closely collaborated with Figma designs, resolved bugs, and deployed applications to production using AWS.
-Aviabird Technologies Pvt. Ltd. www.aviabird.com
-Work From Home
-SDE Intern
-Oct 2020 - March 2021
-Proactively contributed on flutter app development, Figma to code, Bug fixes, performance improvement and API
-Integration.
-Triwits Technologies Pvt. Ltd . www.triwits.com
-SDE (Part-time)
-Developed PWA using Android Native.
-Vijayapura, Karnataka, India
-Jan 2020 - March 2020
-Triwits Technologies Pvt. Ltd . www.triwits.com
-Vijayapura, Karnataka, India
-Jn. SDE
-Oct 2018 - Aug 2019
-Started as a PHP, and ReactJs developer and worked on a handful of projects. I worked on domains like custom
-ERPs/CRMs, Multi-vendor eCommerce websites, SaaS products, etc.
-Notable Projects
-
-Swift (Tech stack : Flutter, Dart, Firebase) visit
-Swift is the blockchain platform, It will support all kind of blockchain trading
-Chrgr.io (Tech stack : ReactJS, PHP, NodeJS) visit
-Online marketplace for the Electric Vehicle Charging Infrastructure Ecosystem
-App files setup (Tech stack : Flutter Packages, Dart) visit A command-line tool that simplifies the task of creating and
-organizing the file structure. Fully flexible, allowing to create project files structure with only one command line.
-Education
-BLDEA's V P Dr PG Halakatti College of Engineering & Technology
-Bachelor of engineering in computer science
-Government Polytechnic
-Diploma Computer science and eng
-Vijayapura,Karnataka
-Aug 2019 - Aug 2022
-Vijayapura
-Jun 2015 - Jun 2018
-Achievements and Certifications
-Top 10 out of 40+ teams in WIT college Hackathon.
-3rd prize in coding competition.
-Goodies winner of HacktoberFest 2020
-Introduction to flutter development - Certified
-July 2020
-Jan 2021
-Oct 2020
-  `;
+    const body = `<Your Training Data in Text>`;
 
     // This sends the text to the OpenAI API and returns the Embedding.
     // const embeddingResponse = await openaiClient.embeddings.create({
